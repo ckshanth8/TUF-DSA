@@ -1,4 +1,4 @@
-class PalindromeCheck {
+class PalindromeCheckRecursion {
     public boolean palindromeCheck(String s) {
         // your code goes here
         int n = s.length();
