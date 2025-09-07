@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class MostFrequentElement {
     public int mostFrequentElement(int[] nums) {
         int maxEle = 0, maxFreq = 0;

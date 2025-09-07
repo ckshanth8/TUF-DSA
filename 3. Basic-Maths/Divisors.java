@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Divisors {
     public int[] divisors(int n) {
         List<Integer> list = new ArrayList<>();

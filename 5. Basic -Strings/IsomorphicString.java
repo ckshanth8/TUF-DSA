@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class IsomorphicString {
     public boolean isomorphicString(String s, String t) {
         // your code goes here

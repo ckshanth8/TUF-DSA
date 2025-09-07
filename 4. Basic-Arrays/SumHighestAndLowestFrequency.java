@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class SumHighestAndLowestFrequency {
     public int sumHighestAndLowestFrequency(int[] nums) {
         int n = nums.length;

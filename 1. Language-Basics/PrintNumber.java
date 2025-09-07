@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 class PrintNumber {
     public void printNumber(Scanner sc) {
         int number;

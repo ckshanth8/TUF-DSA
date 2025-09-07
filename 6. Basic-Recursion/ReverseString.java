@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class ReverseString {
     public ArrayList<Character> reverseString(ArrayList<Character> s) {
         // your code goes here

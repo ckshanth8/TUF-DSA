@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class IsSorted {
     public boolean isSorted(ArrayList<Integer> nums) {
         // your code goes here

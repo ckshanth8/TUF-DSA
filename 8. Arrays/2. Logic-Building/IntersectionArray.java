@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class IntersectionArray {
     // Function to find intersection of two sorted arrays
     public int[] intersectionArray(int[] nums1, int[] nums2) {
