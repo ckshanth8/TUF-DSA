@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class ReverseString {
+class ReverseStringRecursion {
     public ArrayList<Character> reverseString(ArrayList<Character> s) {
         // your code goes here
         int n = s.size();
